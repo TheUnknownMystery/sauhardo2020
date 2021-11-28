@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sauhardo2020
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Frameworks Like React,Vue,Angular
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me create a pull request
 
